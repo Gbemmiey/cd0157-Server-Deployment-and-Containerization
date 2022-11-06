@@ -8,6 +8,7 @@ Parameters:
   AMItoUse:
       Description: AMI to use for our base image
       Type: String
+      
 Resources:
   myWebAccessSecurityGroup:
     Type: AWS::EC2::SecurityGroup

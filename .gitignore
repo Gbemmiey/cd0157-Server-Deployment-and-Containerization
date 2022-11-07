@@ -1,5 +1,8 @@
+aws-auth-patch.yml
+/aws-auth-patch.yml
+
 .DS_Store
-.env*
+# .env*
 .flaskenv
 *.pyc
 *.pyo
@@ -31,5 +34,3 @@ htmlcov/
 .direnv
 
 .github/**
-
-ci-cd-codepipeline.cfn.yml
